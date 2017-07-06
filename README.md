@@ -1,2 +1,0 @@
-# javaScripts
-Advance javaScript Exercises
